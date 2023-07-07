@@ -1,7 +1,7 @@
 
 # Procesado de mamografías y resonancias magnéticas para el diagnóstico del cáncer de mama
 
-### **Descripción del proyecto:💻🏥**
+### **Descripción del proyecto:**
   - Temática: Procesado de imagen médica, algoritmos de segmentación de estructuras anatómicas, caracterización de lesiones mamarias, cáncer de mama.
   - Softwares empleados: ITK-Snap y Fiji.
 
